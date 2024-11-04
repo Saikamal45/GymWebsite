@@ -1,0 +1,33 @@
+.imageContainer{
+    position: relative;
+    text-align: center;
+}
+.imageContainer img{
+    width:100%;
+    height:100vh;
+}
+.imageContainer .textContent{
+    position:absolute;
+    width: 70%;
+    left:3%;
+    top:20%; 
+    z-index: 1;
+    text-align: left; 
+}
+.imageContainer h1{
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0;
+}
+.imageContainer p{
+    top:40%;
+    color: #fff;
+    font-size: 1.25rem;
+    line-height: 1.6;
+    letter-spacing: 0.5px;
+}
+.textContent button{
+    width:150px;
+    font-size:1rem;
+    font-weight: bold;
+}
