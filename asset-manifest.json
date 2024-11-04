@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/GymWebsite/static/css/main.26e477cf.css",
+    "main.js": "/GymWebsite/static/js/main.3fd93d27.js",
+    "static/js/453.aa4801e1.chunk.js": "/GymWebsite/static/js/453.aa4801e1.chunk.js",
+    "static/media/Trainer1.jpg": "/GymWebsite/static/media/Trainer1.4ce0976447c3924ffdf8.jpg",
+    "static/media/Recovery.jpg": "/GymWebsite/static/media/Recovery.15146c7bc87212a61898.jpg",
+    "static/media/GymBg.jpg": "/GymWebsite/static/media/GymBg.258a807fec3cdb571887.jpg",
+    "static/media/PT.jpg": "/GymWebsite/static/media/PT.8455957facaf1f862a42.jpg",
+    "static/media/Gym2.jpg": "/GymWebsite/static/media/Gym2.5921fa2374cc8b7fe8c8.jpg",
+    "static/media/Gym1.jpg": "/GymWebsite/static/media/Gym1.65a505fd25e934f251ab.jpg",
+    "static/media/Gym.jpg": "/GymWebsite/static/media/Gym.3f59322edd9d83843951.jpg",
+    "static/media/Gym12.jpg": "/GymWebsite/static/media/Gym12.b6977b42aae32e078cbd.jpg",
+    "static/media/Trainer2.jpg": "/GymWebsite/static/media/Trainer2.470da20bd9758d379faf.jpg",
+    "index.html": "/GymWebsite/index.html",
+    "main.26e477cf.css.map": "/GymWebsite/static/css/main.26e477cf.css.map",
+    "main.3fd93d27.js.map": "/GymWebsite/static/js/main.3fd93d27.js.map",
+    "453.aa4801e1.chunk.js.map": "/GymWebsite/static/js/453.aa4801e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26e477cf.css",
+    "static/js/main.3fd93d27.js"
+  ]
+}
