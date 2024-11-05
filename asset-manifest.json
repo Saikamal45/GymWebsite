@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Gymwebsite/static/css/main.26e477cf.css",
-    "main.js": "/Gymwebsite/static/js/main.230424b3.js",
+    "main.css": "/Gymwebsite/static/css/main.85f0213b.css",
+    "main.js": "/Gymwebsite/static/js/main.ca0dde14.js",
     "static/js/453.aa4801e1.chunk.js": "/Gymwebsite/static/js/453.aa4801e1.chunk.js",
     "static/media/Trainer1.jpg": "/Gymwebsite/static/media/Trainer1.4ce0976447c3924ffdf8.jpg",
     "static/media/Recovery.jpg": "/Gymwebsite/static/media/Recovery.15146c7bc87212a61898.jpg",
@@ -13,12 +13,12 @@
     "static/media/Gym12.jpg": "/Gymwebsite/static/media/Gym12.b6977b42aae32e078cbd.jpg",
     "static/media/Trainer2.jpg": "/Gymwebsite/static/media/Trainer2.470da20bd9758d379faf.jpg",
     "index.html": "/Gymwebsite/index.html",
-    "main.26e477cf.css.map": "/Gymwebsite/static/css/main.26e477cf.css.map",
-    "main.230424b3.js.map": "/Gymwebsite/static/js/main.230424b3.js.map",
+    "main.85f0213b.css.map": "/Gymwebsite/static/css/main.85f0213b.css.map",
+    "main.ca0dde14.js.map": "/Gymwebsite/static/js/main.ca0dde14.js.map",
     "453.aa4801e1.chunk.js.map": "/Gymwebsite/static/js/453.aa4801e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26e477cf.css",
-    "static/js/main.230424b3.js"
+    "static/css/main.85f0213b.css",
+    "static/js/main.ca0dde14.js"
   ]
 }
